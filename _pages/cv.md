@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "Curriculum Vitae"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
 ---
 
@@ -20,57 +19,51 @@ Kirorimal College, University of Delhi
 2023 – 2026  
 
 Relevant Coursework:
-- Real Analysis
-- Linear Algebra
-- Abstract Algebra
-- Complex Analysis
-- Numerical Analysis
-- Differential Equations
-- Vector Calculus
-- Probability & Statistics
+- Real Analysis  
+- Linear Algebra  
+- Abstract Algebra  
+- Complex Analysis  
+- Numerical Analysis  
+- Differential Equations  
+- Vector Calculus  
+- Probability & Statistics  
 
 ---
 
 ## Research Interests
 
-- Computable Analysis (Type-2 Theory of Effectivity)
-- Functional Analysis
-- Approximation Theory
-- Complex Geometry
-- Foundations of Computation in Analysis
+- Computable Analysis (Type-2 Theory of Effectivity)  
+- Functional Analysis  
+- Approximation Theory  
+- Complex Geometry  
+- Foundations of Computation in Analysis  
 
 ---
 
 ## Academic Projects
 
 **Weierstrass Approximation Theorem Project**  
-A detailed LaTeX-based exposition including proof, applications, and historical background.
+A detailed LaTeX exposition including proof, applications, and historical development.
 
 **Computable Analysis Notes (TTE Approach)**  
-Structured notes explaining representations, computability of real functions, and foundational aspects.
+Structured notes on representations, computability of real functions, and theoretical foundations.
 
-**Numerical Analysis Practice Compendium**  
-Problem-solving and derivations of quadrature rules and linear system methods.
+**Numerical Analysis Compendium**  
+Derivations and implementations of quadrature rules and methods for solving linear systems.
 
 ---
 
 ## Technical Skills
 
-- LaTeX (advanced mathematical typesetting)
-- Mathematica
-- Basic Python
-- MS Excel
-- Git & GitHub
-
----
-
-## Academic Goals
-
-I aim to pursue postgraduate studies (M.Sc. and Ph.D.) in pure mathematics, with a focus on analysis and its computational foundations. My long-term objective is to contribute to research in computable analysis and related areas.
+- LaTeX (Advanced mathematical typesetting)  
+- Mathematica  
+- Basic Python  
+- Git & GitHub  
+- MS Excel  
 
 ---
 
 ## Languages
 
-- English (Professional proficiency)
-- Hindi (Native)
+- English (Professional proficiency)  
+- Hindi (Native)  
