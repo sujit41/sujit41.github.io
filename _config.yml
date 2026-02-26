@@ -7,9 +7,9 @@ title                    : "Sujit Kumar"
 title_separator          : "-"
 name                     : "Sujit Kumar"
 description              : "Mathematics Undergraduate | Interested in Computable Analysis, Functional Analysis and Complex Geometry"
-url                      : "https://yourusername.github.io"
-baseurl                  : ""
-repository               : "yourusername/yourusername.github.io"
+url: "https://sujit41.github.io"
+baseurl: ""
+repository: "sujit41/sujit41.github.io"
 timezone                 : "Asia/Kolkata"
 
 # -----------------------------
