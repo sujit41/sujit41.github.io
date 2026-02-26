@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "Sujit Kumar | Computable Analysis & Complex Geometry"
+title: "Sujit Kumar"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<p align="center">
-  <img src="{{ '/images/tital.png' | relative_url }}" width="400">
-</p>
+<div style="text-align:center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="{{ '/images/ries.png' | relative_url }}" width="300" style="opacity:0.85;">
+</div>
+<h2 style="text-align:center; font-weight:400;">
+Computable Analysis · Complex Geometry
+</h2>
 
 
 ## About Me
