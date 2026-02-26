@@ -47,3 +47,13 @@
   width: 160px !important;
   border-radius: 50%;
 }
+/* Reduce sidebar width */
+.sidebar {
+  width: 260px !important;
+}
+
+@media (min-width: 64em) {
+  .sidebar {
+    width: 260px !important;
+  }
+}
