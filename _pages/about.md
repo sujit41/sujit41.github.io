@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="/images/tital.png" width="350">
+  <img src="{{ '/images/tital.png' | relative_url }}" width="400">
 </p>
 
 
