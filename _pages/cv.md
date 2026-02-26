@@ -16,7 +16,7 @@ author_profile: true
 
 **B.Sc. (Hons.) Mathematics**  
 Kirorimal College, University of Delhi  
-2023 – 2026  
+2023 – 2026
 
 Relevant Coursework:
 - Real Analysis  
