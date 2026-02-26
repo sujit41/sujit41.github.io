@@ -41,11 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Reduce profile image size */
+/* Center and soften profile image */
+.author__avatar {
+  text-align: center;
+}
+
 .author__avatar img {
-  max-width: 160px !important;
-  width: 160px !important;
-  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 /* Reduce sidebar width */
 .sidebar {
