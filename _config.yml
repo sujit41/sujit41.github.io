@@ -23,7 +23,7 @@ repository               : "sujit41/sujit41.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pr.png"
   name             : "Sujit Kumar"
   pronouns         : # example: "she/her"  
   bio              : "A B.Sc. (Hons.) Mathematics student at the University of Delhi"
