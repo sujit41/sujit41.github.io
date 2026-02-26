@@ -10,6 +10,7 @@ redirect_from:
 </p>
 ---
 
+## About Me
 I am Sujit Kumar, an undergraduate student of Mathematics at Kirorimal College, University of Delhi. My primary academic interests lie in **Computable Analysis (particularly the Type-2 Theory of Effectivity approach)**, Functional Analysis, Approximation Theory, and Complex Geometry.
 
 My curiosity in mathematics is driven by a desire to understand the foundational aspects of computation over real numbers and infinite objects. I am especially interested in the interaction between analysis and logic, and how abstract mathematical structures can be studied through a computational lens.
